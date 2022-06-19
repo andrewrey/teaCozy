@@ -1,2 +1,6 @@
-@use "base/index";
-@use "layout/index";
+@use "base/reset";
+@use "base/typography";
+@use "base/base";
+@use "layout/header";
+@use "layout/main";
+@use "layout/footer";
