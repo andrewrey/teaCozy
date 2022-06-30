@@ -1,0 +1,27 @@
+header {
+  border-bottom: 1px solid seashell;
+  position: fixed;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  height: 69px;
+  z-index: 1;
+  .logo {
+    margin-left: 10px;
+    img {
+      height: 50px;
+    }
+  }
+  a {
+    color: seashell;
+  }
+  ul {
+    padding: 10px;
+    list-style: none;
+    display: flex;
+    border: 1px solid red;
+    gap: 25px;
+  }
+}

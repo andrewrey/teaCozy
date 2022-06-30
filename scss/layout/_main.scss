@@ -1,0 +1,19 @@
+.mission {
+  background-image: url("../images/img-mission-background.jpeg");
+  height: 700px;
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  div {
+    background-color: black;
+    width: 100%;
+  }
+}
+
+main {
+  position: relative;
+  top: 69px;
+  height: 1000px;
+}
