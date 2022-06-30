@@ -128,4 +128,15 @@ main {
   height: 1000px;
 }
 
+.monthly-tea {
+  width: 1000px;
+  margin: 0 auto;
+}
+.monthly-tea img {
+  height: 200px;
+  width: 300px;
+  display: inline-block;
+  margin: 10px;
+}
+
 /*# sourceMappingURL=style.css.map */
