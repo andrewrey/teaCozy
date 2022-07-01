@@ -125,7 +125,6 @@ header ul {
 main {
   position: relative;
   top: 69px;
-  height: 1000px;
 }
 
 .monthly {
@@ -172,6 +171,19 @@ main {
 }
 .location p {
   margin: 20px;
+}
+
+footer {
+  position: relative;
+  top: 69px;
+  padding-top: 50px;
+}
+footer p {
+  margin: 15px 0;
+}
+footer div {
+  text-align: left;
+  padding-left: 20px;
 }
 
 /*# sourceMappingURL=style.css.map */
