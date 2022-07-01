@@ -18,13 +18,19 @@ main {
   height: 1000px;
 }
 
+.monthly {
+  margin-top: 25px;
+}
+
 .monthly-tea {
   width: 1000px;
   margin: 0 auto;
+  div {
+    display: inline-block;
+  }
   img {
     height: 200px;
     width: 300px;
-    display: inline-block;
     margin: 10px;
   }
 }
